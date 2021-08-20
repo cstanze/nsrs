@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "nasko",
+  "nasko_proc_macro"
+]

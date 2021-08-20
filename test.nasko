@@ -1,0 +1,4 @@
+func main(argc: string, argv: int): int {
+	return 0;
+}
+
